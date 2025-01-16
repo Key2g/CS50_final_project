@@ -1,0 +1,12 @@
+{
+    "db_path": "sensor_database.db",
+    "export_path": ".\\database_dump.csv",
+    "temperature_range": [
+        0,
+        50
+    ],
+    "table_name": "temps",
+    "update_interval": 1000,
+    "graph_points": 60,
+    "debug_mode": true
+}
